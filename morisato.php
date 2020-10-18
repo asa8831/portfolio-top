@@ -24,7 +24,7 @@ require('src/php/header.php');
         <a href="https://asa-works.com/morisato/" target="_blank">Webサイトを見る</a>
       </button>
       <button class="link-button">
-        <a href="" target="_blank">GitHubを見る</a>
+        <a href="https://github.com/asa8831/morisato" target="_blank">GitHubを見る</a>
       </button>
       <!-- //サイトリンク -->
 

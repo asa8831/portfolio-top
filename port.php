@@ -21,7 +21,7 @@ require('src/php/header.php');
 
       <!-- サイトリンク -->
       <button class="link-button">
-        <a href="">GitHubを見る</a>
+        <a href="https://github.com/asa8831/portfolio-top">GitHubを見る</a>
       </button>
       <!-- //サイトリンク -->
 
