@@ -32,16 +32,16 @@ require('src/php/header.php');
     <!-- １段目 -->
     <ul class="works">
       <li class="works_inner">
-        <a href="mogumogu.php">
-          <img src="dist/img/mogumogu.png" alt="ポートフォリオサイト「mogumogu」の写真">
-          <h3 class="works_inner-title">Webサービス「mogumogu」</h3>
+        <a href="port.php">
+          <img src="dist/img/portfolio.png" alt="ポートフォリオサイトトップページの写真">
+          <h3 class="works_inner-title">ポートフォリオサイト（本サイト）</h3>
         </a>
       </li>
 
       <li class="works_inner">
-        <a href="konoko.php">
-          <img src="dist/img/konoko.png" alt="ポートフォリオサイト「このこどのねこ？」の写真">
-          <h3 class="works_inner-title">ゲーム「このこどのねこ？」</h3>
+        <a href="morisato.php">
+          <img src="dist/img/morisato.png" alt="ポートフォリオサイト「職員募集特設ページ」の写真">
+          <h3 class="works_inner-title">リクルートサイト「職員募集特設ページ」</h3>
         </a>
       </li>
     </ul>
@@ -49,37 +49,35 @@ require('src/php/header.php');
     <!-- ２段目 -->
     <ul class="works">
       <li class="works_inner">
-        <a href="hapikore.php">
-          <img src="dist/img/hapikore.png" alt="ポートフォリオサイト「ハピコレ」の写真">
-          <h3 class="works_inner-title">ECサイト「ハピコレ」</h3>
+        <a href="mogumogu.php">
+          <img src="dist/img/mogumogu.png" alt="ポートフォリオサイト「mogumogu」の写真">
+          <h3 class="works_inner-title">Webサービス「mogumogu」</h3>
         </a>
-    
       </li>
+
       <li class="works_inner" id="office">
         <a href="office.php">
           <img src="dist/img/officepro.png" alt="ポートフォリオサイト「オフィスプロ」の写真">
           <h3 class="works_inner-title">コーポレートサイト「オフィスプロ」</h3>
         </a>
-
       </li>
     </ul>
 
 
     <!-- ３段目 -->
     <ul class="works">
-      <li class="works_inner">
-        <a href="morisato.php">
-          <img src="dist/img/morisato.png" alt="ポートフォリオサイト「職員募集特設ページ」の写真">
-          <h3 class="works_inner-title">リクルートサイト「職員募集特設ページ」</h3>
+    <li class="works_inner">
+        <a href="konoko.php">
+          <img src="dist/img/konoko.png" alt="ポートフォリオサイト「このこどのねこ？」の写真">
+          <h3 class="works_inner-title">ゲーム「このこどのねこ？」</h3>
         </a>
       </li>
-
+      
       <li class="works_inner">
-        <a href="port.php">
-          <img src="dist/img/portfolio.png" alt="ポートフォリオサイトトップページの写真">
-          <h3 class="works_inner-title">ポートフォリオサイト（本サイト）</h3>
+        <a href="hapikore.php">
+          <img src="dist/img/hapikore.png" alt="ポートフォリオサイト「ハピコレ」の写真">
+          <h3 class="works_inner-title">ECサイト「ハピコレ」</h3>
         </a>
-
       </li>
     </ul>
 
@@ -94,25 +92,24 @@ require('src/php/header.php');
     </div>
 
     <table class="table">
-      
+
       <tr class="table-inner">
         <th class="table-title">フロントエンド</th>
-        <td class="table-text">HTML / CSS(Sass) / javascript(jQuery)</td>
+        <td class="table-text">HTML / CSS(Sass) / JavaScript(jQuery)</td>
       </tr>
-      
+
       <tr class="table-inner">
         <th class="table-title">バックエンド</th>
-        <td class="table-text">PHP(製作物はまだありませんがFuelPHPを学習中、次にLaravelを学習予定です。) / SQL /</td>
+        <td class="table-text">PHP / SQL </td>
       </tr>
       <tr class="table-inner">
         <th class="table-title">ツール等</th>
-        <td class="table-text"> Node.js / yarn / gulp / npm / photoShop / Git(GitHub) / CyberDuck / MAMP</td>
+        <td class="table-text"> yarn / gulp / npm / photoShop / Git(GitHub) / CyberDuck / MAMP</td>
       </tr>
       <tr class="table-inner">
         <th class="table-title">OS</th>
         <td class="table-text">Mac / Windows</td>
       </tr>
-
     </table>
   </section>
   <!-- //製作環境 -->
