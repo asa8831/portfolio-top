@@ -6,4 +6,4 @@
 加えて、配色やアニメーションは閲覧の邪魔にならないよう極力抑えた上で、いかにすれば単調になりすぎず華やかになるかを考えてデザインしました。
 
 # 開発環境
-macOS(Catalina)、HTML5、CSS3(Sass)、jQuery(3.5.1)、yarn、gulp
+MacOS(Catalina)、HTML5、CSS3(Sass)、jQuery(3.5.1)、yarn、gulp
